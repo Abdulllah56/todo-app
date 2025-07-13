@@ -141,7 +141,7 @@ export default function TodoApp() {
     <div className={`min-h-screen bg-navy-900 text-blue-50 font-sans transition-all duration-700 ease-in-out ${fadeIn ? 'opacity-100' : 'opacity-0'}`}>
       <div className="container mx-auto p-4 md:p-6 max-w-3xl">
         <header className="mb-8 text-center">
-          <h1 className="text-4xl font-bold mb-2 text-blue-400">Task Manager</h1>
+          <h1 className="text-4xl font-bold mb-2 text-blue-400">FocusFlow</h1>
           <p className="text-blue-300">Organize your day, accomplish more</p>
         </header>
 
