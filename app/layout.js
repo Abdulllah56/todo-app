@@ -14,11 +14,6 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Focus Flow",
   description: "Manage your tasks in ease!",
-  icons: {
-    icon: "/Focus Flow.png",
-    shortcut: "/Focus Flow.png",
-    apple: "/Focus Flow.png",
-  },
 };
 
 export default function RootLayout({ children }) {
